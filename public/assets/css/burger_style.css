@@ -1,0 +1,33 @@
+body {
+
+    background-color: orange;
+}
+
+#header,#add {
+
+    text-align:center;
+    clear: both;
+
+}
+ul {
+    list-style-type: none;
+}
+button,form {
+    display: inline-block;
+}
+#list_burgers {
+
+    float: left;
+    
+    width: 45%;
+}
+
+#eaten_burgers {
+    float:right;
+
+    width: 45%;
+}
+#burger{
+    margin: 0 20%;
+    overflow: auto;
+}
